@@ -66,7 +66,7 @@ Where modifications have been made, such modifications are also licensed under t
 
 See `LICENSES.md` and `THIRD_PARTY_NOTICES.md` for full license texts and attribution records.
 
-### Attribution and Compliance
+## Attribution and Compliance
 
 This repository is maintained exclusively for compliance with open-source licensing obligations.
 
