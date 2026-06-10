@@ -1,15 +1,15 @@
-<a href="https://testerpresent.com.au"><p align="right">
-
-<img align="right" src="https://github.com/user-attachments/assets/56d76bd0-315e-4db3-b920-ed8c5ad8e06c" height="20%" width="20%"/>
-
-</p></a>
-
-<a href="https://testerpresent.com.au">
 <p align="right">
 
-<img align="right" src="https://github.com/user-attachments/assets/3d4fe004-c5a8-4653-8e62-f4bac481ece0" height="20%" width="20%"/>
+<a href="https://testerpresent.com.au"><img align="right" src="https://github.com/user-attachments/assets/56d76bd0-315e-4db3-b920-ed8c5ad8e06c" height="20%" width="20%"/></a>
 
-</p></a>
+</p>
+
+<p align="right">
+
+<a href="https://testerpresent.com.au">
+<img align="right" src="https://github.com/user-attachments/assets/3d4fe004-c5a8-4653-8e62-f4bac481ece0" height="20%" width="20%"/>
+</a>
+</p>
 
 
 # Open-Tester-Engineering
