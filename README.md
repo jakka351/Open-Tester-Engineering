@@ -4,24 +4,26 @@
 
 Source Code Repository for the <a href="https://tester.engineering">Tester Engineering Suite</a> - Open Source Component.
 
-## Overview
+# Statement of Purpose
 
-This repository contains open-source components and derivative works used within the Tester Engineering Suite.
+This repository is an independently distributed collection of open-source software components and derivative works that originate from third-party projects licensed under open-source licenses, including but not limited to the GNU General Public License (GPL) and the MIT License.
 
-It exists to fulfill attribution and redistribution requirements for third-party open-source software that is incorporated, adapted, or ported into the broader Tester Engineering ecosystem.
+This repository exists solely to satisfy redistribution, attribution, and source disclosure requirements of those upstream licenses.
 
-These components are distributed independently to comply with the respective licenses of their original projects, including (but not limited to) GPL and MIT licensed software.
 
-## Scope of This Repository
+Scope and Content
 
-This repository includes:
+This repository contains only:
 
-C# ports of selected open-source flash and communication routines
-Adapted protocol implementations derived from third-party projects
-Supporting utilities and abstractions required to operate these components independently
-License compliance artifacts and attribution records
+  - Source code originating from third-party open-source projects
+  - Modifications, translations, or ports of such code (including C# adaptations)
+  - Supporting code required solely for standalone operation of these open-source components
+  - License files, notices, and attribution metadata
 
-All included code originates from or is derived from open-source software and is provided under the terms of its original licenses.
+All included software is either:
+
+  - original upstream open-source code, or
+  - derivative work of such code distributed under the same license terms
 
 ## Relationship to Tester Engineering Suite
 
