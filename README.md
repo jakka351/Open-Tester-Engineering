@@ -2,9 +2,9 @@
 
 # Open-Tester-Engineering
 
-Source Code Repository for the <a href="https://tester.engineering">Tester Engineering Suite</a> - Open Source Components.
+Source Code Repository for the <a href="https://tester.engineering">Tester Engineering Suite</a> - Open Source Component.
 
-Overview
+## Overview
 
 This repository contains open-source components and derivative works used within the Tester Engineering Suite.
 
@@ -12,7 +12,7 @@ It exists to fulfill attribution and redistribution requirements for third-party
 
 These components are distributed independently to comply with the respective licenses of their original projects, including (but not limited to) GPL and MIT licensed software.
 
-Scope of This Repository
+## Scope of This Repository
 
 This repository includes:
 
@@ -23,7 +23,7 @@ License compliance artifacts and attribution records
 
 All included code originates from or is derived from open-source software and is provided under the terms of its original licenses.
 
-Relationship to Tester Engineering Suite
+## Relationship to Tester Engineering Suite
 
 The Tester Engineering Suite is a separate, proprietary software system and is not included in this repository.
 
@@ -36,7 +36,7 @@ Any standalone executable version of the proprietary suite
 
 Integration between this repository and the proprietary system, where applicable, is handled via defined interfaces and separation boundaries and is not distributed as a combined work here.
 
-Licensing
+## Licensing
 
 Each component in this repository retains its original license terms.
 
@@ -47,7 +47,7 @@ MIT-licensed components retain their original MIT license
 
 See LICENSES/ and THIRD_PARTY_NOTICES.md for full details.
 
-Attribution
+## Attribution
 
 This repository exists to properly acknowledge and comply with licensing obligations of upstream open-source projects used within Tester Engineering Suite.
 
@@ -55,7 +55,7 @@ All upstream authors retain full credit for their original work.
 
 Modifications and porting efforts are documented on a per-component basis where applicable.
 
-Important Note on Separation
+## Important Note on Separation
 
 This repository is maintained as a standalone open-source distribution boundary for licensed components.
 
