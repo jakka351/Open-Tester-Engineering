@@ -1,5 +1,11 @@
 <a href="https://tester.engineering"><img width="1838" height="366" alt="slogan" src="https://github.com/user-attachments/assets/a3c9510c-fd99-4f5f-a99e-0c6c0579e5b1" /></a>
 
+<p align="right">
+
+<img align="right" src="https://user-images.githubusercontent.com/57064943/163706360-f1d8e14a-aabd-40f2-90a0-0cdc0badf70c.png" height="20%" width="20%"/>
+
+</p>
+
 # Open-Tester-Engineering
 
 Source Code Repository for the <a href="https://tester.engineering">Tester Engineering Suite</a> 
