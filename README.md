@@ -2,7 +2,7 @@
 
 # Open-Tester-Engineering
 
-Source Code Repository for the <a href="https://tester.engineering">Tester Engineering Suite</a> - Open Source Component.
+Source Code Repository for the <a href="https://tester.engineering">Tester Engineering Suite</a> 
 
 # Statement of Purpose
 
