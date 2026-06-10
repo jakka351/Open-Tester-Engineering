@@ -57,29 +57,35 @@ Any interaction between proprietary software and these components, if it exists,
 
 ## Licensing
 
-Each component in this repository retains its original license terms.
+All software in this repository is distributed under the terms of its original upstream licenses.
 
-Where modifications have been made, those changes are documented and attributed accordingly.
+  -  GPL-licensed components are distributed under the applicable version of the GNU General Public License
+  - MIT-licensed components remain under the MIT License with original copyright notices preserved
 
-GPL-licensed components remain subject to GPL terms
-MIT-licensed components retain their original MIT license
+Where modifications have been made, such modifications are also licensed under the original terms of the upstream work, as required.
 
-See LICENSES/ and THIRD_PARTY_NOTICES.md for full details.
+See `LICENSES.md` and `THIRD_PARTY_NOTICES.md` for full license texts and attribution records.
 
-## Attribution
+### Attribution and Compliance
 
-This repository exists to properly acknowledge and comply with licensing obligations of upstream open-source projects used within Tester Engineering Suite.
+This repository is maintained exclusively for compliance with open-source licensing obligations.
 
-All upstream authors retain full credit for their original work.
+All original authors retain full rights and attribution for their respective works.
 
-Modifications and porting efforts are documented on a per-component basis where applicable.
+This repository does not claim ownership over upstream open-source software beyond documented modifications.
 
-## Important Note on Separation
+## No License Grant for Proprietary Components
 
-This repository is maintained as a standalone open-source distribution boundary for licensed components.
+Nothing in this repository grants access to, reveals, or licenses any proprietary software components of the Tester Engineering Suite.
 
-It is intentionally separated from proprietary software components to ensure compliance with open-source licensing requirements.
+Any proprietary software remains fully closed-source and is not included, implied, or distributed herein.
 
+
+# Final Legal Positioning Statement
+
+This repository is an independent distribution of open-source software components only.
+
+It is not a derivative of any proprietary system as a whole, and it is not intended to be interpreted as a combined or aggregated work with any closed-source software.
 
 <a href="https://tester.engineering"><img width="1837" height="261" alt="URL" src="https://github.com/user-attachments/assets/1a3a8a9b-ee18-4c32-8e8d-de3034a7288c" /></a>
 
