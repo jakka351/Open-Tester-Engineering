@@ -29,14 +29,31 @@ All included software is either:
 
 The Tester Engineering Suite is a separate, proprietary software system and is not included in this repository.
 
-This repository does not contain:
+Explicit Exclusions
 
-Proprietary Tester Engineering Suite source code
-Closed-source UI or engineering workflow logic
-Internal “Tester Present” or security-related implementation logic
-Any standalone executable version of the proprietary suite
+This repository does not contain, reference, or distribute any proprietary software components.
 
-Integration between this repository and the proprietary system, where applicable, is handled via defined interfaces and separation boundaries and is not distributed as a combined work here.
+Specifically excluded are:
+
+  - Any source code from the Tester Engineering Suite that is not derived from upstream open-source projects
+  - Any proprietary “Tester Present” logic, security access logic, or engineering workflow implementations
+  - Any closed-source user interface components or orchestration systems
+  - Any combined binaries linking proprietary and open-source code
+
+No proprietary code is included, embedded, or redistributed in this repository.
+
+## Separation From Proprietary Software
+
+The proprietary Tester Engineering Suite is a separate and independent software system.
+
+This repository:
+
+  - is not linked, compiled, or distributed as part of the proprietary system
+  - does not constitute a combined or aggregated work with proprietary components
+  - is not required for operation of any proprietary software
+  - is maintained independently to comply with third-party license obligations
+
+Any interaction between proprietary software and these components, if it exists, occurs solely through externally defined interfaces and is not part of this repository.
 
 ## Licensing
 
