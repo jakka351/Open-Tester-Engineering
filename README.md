@@ -10,6 +10,14 @@
 
 Source Code Repository for the <a href="https://tester.engineering">Tester Engineering Suite</a> 
 
+
+<p align="right">
+
+<img align="right" src="https://github.com/user-attachments/assets/3d4fe004-c5a8-4653-8e62-f4bac481ece0" height="20%" width="20%"/>
+
+</p>
+
+
 # Statement of Purpose
 
 This repository is an independently distributed collection of open-source software components and derivative works that originate from third-party projects licensed under open-source licenses, including but not limited to the GNU General Public License (GPL) and the MIT License.
