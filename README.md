@@ -1,3 +1,5 @@
+<a href="https://tester.engineering"><img width="1838" height="366" alt="slogan" src="https://github.com/user-attachments/assets/a3c9510c-fd99-4f5f-a99e-0c6c0579e5b1" /></a>
+
 # Open-Tester-Engineering
 
 Source Code Repository for the <a href="https://tester.engineering">Tester Engineering Suite</a> - Open Source Components.
@@ -9,7 +11,7 @@ and projects are disclosed from the currently closed source project - Tester Eng
 source, however those components that are based off of open source code will be made available open source fulfilling the license obligations of those projects, thus Tester Engineering Suite is both
 Open and Closed Source at the same time. 
 
-<a href="https://tester.engineering"><img width="1838" height="366" alt="slogan" src="https://github.com/user-attachments/assets/a3c9510c-fd99-4f5f-a99e-0c6c0579e5b1" /></a>
+
 
 <a href="https://tester.engineering"><img width="1837" height="261" alt="URL" src="https://github.com/user-attachments/assets/1a3a8a9b-ee18-4c32-8e8d-de3034a7288c" /></a>
 
