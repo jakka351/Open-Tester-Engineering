@@ -4,13 +4,62 @@
 
 Source Code Repository for the <a href="https://tester.engineering">Tester Engineering Suite</a> - Open Source Components.
 
-Having software that is both open source and closed source is quite a condundrum, well this is the best ditched efforts to properly and correctly attribute open source licenses and credits 
-where it is due and owed. The Tester Engineering Suite's flash routines are largely drawn from open source projects, and as such many are licensed under GPL or MIT licenses - in order to comply
-with the terms of these licenses the modified version of the original software needs to be made available open source - in the case here, C# ports of the flash routines from multiple languages 
-and projects are disclosed from the currently closed source project - Tester Engineering Suite. The project contains much Tester Present proprietary code and thus cannot be made completely open
-source, however those components that are based off of open source code will be made available open source fulfilling the license obligations of those projects, thus Tester Engineering Suite is both
-Open and Closed Source at the same time. 
+Overview
 
+This repository contains open-source components and derivative works used within the Tester Engineering Suite.
+
+It exists to fulfill attribution and redistribution requirements for third-party open-source software that is incorporated, adapted, or ported into the broader Tester Engineering ecosystem.
+
+These components are distributed independently to comply with the respective licenses of their original projects, including (but not limited to) GPL and MIT licensed software.
+
+Scope of This Repository
+
+This repository includes:
+
+C# ports of selected open-source flash and communication routines
+Adapted protocol implementations derived from third-party projects
+Supporting utilities and abstractions required to operate these components independently
+License compliance artifacts and attribution records
+
+All included code originates from or is derived from open-source software and is provided under the terms of its original licenses.
+
+Relationship to Tester Engineering Suite
+
+The Tester Engineering Suite is a separate, proprietary software system and is not included in this repository.
+
+This repository does not contain:
+
+Proprietary Tester Engineering Suite source code
+Closed-source UI or engineering workflow logic
+Internal “Tester Present” or security-related implementation logic
+Any standalone executable version of the proprietary suite
+
+Integration between this repository and the proprietary system, where applicable, is handled via defined interfaces and separation boundaries and is not distributed as a combined work here.
+
+Licensing
+
+Each component in this repository retains its original license terms.
+
+Where modifications have been made, those changes are documented and attributed accordingly.
+
+GPL-licensed components remain subject to GPL terms
+MIT-licensed components retain their original MIT license
+
+See LICENSES/ and THIRD_PARTY_NOTICES.md for full details.
+
+Attribution
+
+This repository exists to properly acknowledge and comply with licensing obligations of upstream open-source projects used within Tester Engineering Suite.
+
+All upstream authors retain full credit for their original work.
+
+Modifications and porting efforts are documented on a per-component basis where applicable.
+
+Important Note on Separation
+
+This repository is maintained as a standalone open-source distribution boundary for licensed components.
+
+It is intentionally separated from proprietary software components to ensure compliance with open-source licensing requirements.
 
 
 <a href="https://tester.engineering"><img width="1837" height="261" alt="URL" src="https://github.com/user-attachments/assets/1a3a8a9b-ee18-4c32-8e8d-de3034a7288c" /></a>
