@@ -14,7 +14,7 @@
 
 # Open-Tester-Engineering
 
-Source Code Repository for the <a href="https://tester.engineering">Tester Engineering Suite</a> 
+Source Code Repository related to the <a href="https://tester.engineering">Tester Engineering Suite</a> 
 
 
 
