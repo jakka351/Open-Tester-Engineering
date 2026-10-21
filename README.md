@@ -103,6 +103,6 @@ This repository is an independent distribution of open-source software component
 
 It is not a derivative of any proprietary system as a whole, and it is not intended to be interpreted as a combined or aggregated work with any closed-source software.
 
-<a href="https://tester.engineering"><img width="60%" height="60%" alt="TesterPresent_Brochure_Animated" src="https://github.com/user-attachments/assets/aa7923eb-3b33-418e-8685-cd0416913885" />
+<a href="https://tester.engineering"><img width="75%" height="75%" alt="TesterPresent_Brochure_Animated" src="https://github.com/user-attachments/assets/aa7923eb-3b33-418e-8685-cd0416913885" />
 </a>
 <a href="https://tester.engineering"><img width="1838" height="366" alt="slogan" src="https://github.com/user-attachments/assets/a3c9510c-fd99-4f5f-a99e-0c6c0579e5b1" /></a>
